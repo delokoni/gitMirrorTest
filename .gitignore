@@ -24,10 +24,12 @@ IlluminatedClout/*
 
 #VSCode ForceCode
 force.json
+.forceCode
 
 #VSCode SFDX
-.sfdx/*
+.sfdx
 config/*
+
 
 
 #if you are not customizing a managed package, you can keep your repository clean by ignoring 
