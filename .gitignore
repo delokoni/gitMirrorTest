@@ -20,14 +20,17 @@ contentassets/*
 IlluminatedClout/*
 
 #VSCode
+.vscode
 .vscode/*
 
 #VSCode ForceCode
+.forceCode
 force.json
 .forceCode
 
 #VSCode SFDX
 .sfdx
+.sfdx/*
 config/*
 
 
