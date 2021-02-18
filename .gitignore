@@ -23,9 +23,11 @@ IlluminatedClout/*
 .vscode/*
 
 #VSCode ForceCode
+.forceCode
 force.json
 
 #VSCode SFDX
+.sfdx
 .sfdx/*
 config/*
 
