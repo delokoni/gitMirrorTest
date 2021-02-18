@@ -19,10 +19,16 @@ public class AccountAutomations {
         return a;
     }
     public static Account setDefaultPhone(Account a) {
-        a.Phone='688456789';
+        a.Phone='123456789';
         return a;
     }
     public static Account setDefaultURL(Account a) {
+        a.website = 'www.copado.com'; 
+        return a;
+    }
+
+
+    public static Account libertyDemoMethod(Account a) {
         a.website = 'www.copado.com'; 
         return a;
     }
