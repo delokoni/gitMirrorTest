@@ -23,7 +23,13 @@ public class AccountAutomations {
         return a;
     }
     public static Account setDefaultURL(Account a) {
-        a.website = 'www.copado.com.dev1'; 
+        a.website = 'www.copado.com'; 
+        return a;
+    }
+
+
+    public static Account ibmDemoMethos(Account a) {
+        a.website = 'www.copado.com'; 
         return a;
     }
 }
